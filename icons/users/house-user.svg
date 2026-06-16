@@ -1,0 +1,6 @@
+<svg width="128" height="128" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Person with heart = personal -->
+  <circle cx="12" cy="7" r="4" fill="#1a73e8" stroke="#202124" stroke-width="1.8"/>
+  <path d="M4 20C4 16.69 7.58 14 12 14C16.42 14 20 16.69 20 20" stroke="#202124" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M12 20.5C12 20.5 9 18.5 9 16.7C9 15.76 9.76 15 10.7 15C11.22 15 11.67 15.24 12 15.62C12.33 15.24 12.78 15 13.3 15C14.24 15 15 15.76 15 16.7C15 18.5 12 20.5 12 20.5Z" fill="#202124"/>
+</svg>

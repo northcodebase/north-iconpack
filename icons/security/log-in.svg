@@ -1,0 +1,7 @@
+<svg width="128" height="128" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Login entry icon - shield + person -->
+  <path d="M12 2L4 6V11C4 15.55 7.48 19.74 12 21C16.52 19.74 20 15.55 20 11V6L12 2Z" fill="#1a73e8" stroke="#202124" stroke-width="1.8" stroke-linejoin="round"/>
+  <!-- Person silhouette inside -->
+  <circle cx="12" cy="9" r="2.2" fill="white" stroke="#202124" stroke-width="1.2"/>
+  <path d="M7.5 17C7.5 14.52 9.52 13 12 13C14.48 13 16.5 14.52 16.5 17" stroke="#202124" stroke-width="1.2" stroke-linecap="round"/>
+</svg>

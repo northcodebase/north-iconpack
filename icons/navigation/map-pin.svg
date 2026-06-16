@@ -1,0 +1,5 @@
+<svg width="128" height="128" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pin/pushpin -->
+  <path d="M12 2L8 8H4L8 12V19L12 22L16 19V12L20 8H16L12 2Z" fill="#1a73e8" stroke="#202124" stroke-width="1.8" stroke-linejoin="round"/>
+  <line x1="8" y1="8" x2="16" y2="8" stroke="#202124" stroke-width="1.6" stroke-linecap="round"/>
+</svg>

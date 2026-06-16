@@ -1,0 +1,418 @@
+{
+  "generatedAt": "2026-06-16T14:30:48.177Z",
+  "dryRun": false,
+  "source": "D:\\Devs\\Projects\\IconPack\\NorthPack\\Northline Icons",
+  "destination": "D:\\Devs\\Projects\\IconPack\\NorthPack\\Northline Icons Organized",
+  "summary": {
+    "total": 80,
+    "renamed": 77,
+    "skipped": 0,
+    "duplicates": 0,
+    "deleted": 3,
+    "errors": 0
+  },
+  "renamed": [
+    {
+      "from": "add.svg",
+      "to": "plus.svg",
+      "category": "actions"
+    },
+    {
+      "from": "archive.svg",
+      "to": "archive.svg",
+      "category": "actions"
+    },
+    {
+      "from": "autofill.svg",
+      "to": "wand.svg",
+      "category": "actions"
+    },
+    {
+      "from": "back.svg",
+      "to": "arrow-left.svg",
+      "category": "navigation"
+    },
+    {
+      "from": "banking.svg",
+      "to": "landmark.svg",
+      "category": "commerce"
+    },
+    {
+      "from": "breach.svg",
+      "to": "shield-x.svg",
+      "category": "security"
+    },
+    {
+      "from": "card.svg",
+      "to": "credit-card.svg",
+      "category": "commerce"
+    },
+    {
+      "from": "category_filter.svg",
+      "to": "layout-grid.svg",
+      "category": "navigation"
+    },
+    {
+      "from": "check.svg",
+      "to": "check.svg",
+      "category": "actions"
+    },
+    {
+      "from": "close.svg",
+      "to": "x.svg",
+      "category": "actions"
+    },
+    {
+      "from": "cloud-vault.svg",
+      "to": "cloud-lock.svg",
+      "category": "security"
+    },
+    {
+      "from": "copy.svg",
+      "to": "copy.svg",
+      "category": "actions"
+    },
+    {
+      "from": "dark-mode.svg",
+      "to": "moon.svg",
+      "category": "theme"
+    },
+    {
+      "from": "database.svg",
+      "to": "database.svg",
+      "category": "files"
+    },
+    {
+      "from": "delete.svg",
+      "to": "trash.svg",
+      "category": "actions"
+    },
+    {
+      "from": "dice.svg",
+      "to": "dice.svg",
+      "category": "actions"
+    },
+    {
+      "from": "drag-handle.svg",
+      "to": "grip-vertical.svg",
+      "category": "actions"
+    },
+    {
+      "from": "edit.svg",
+      "to": "pencil.svg",
+      "category": "actions"
+    },
+    {
+      "from": "email.svg",
+      "to": "mail.svg",
+      "category": "communication"
+    },
+    {
+      "from": "entertainment.svg",
+      "to": "film.svg",
+      "category": "system"
+    },
+    {
+      "from": "expired.svg",
+      "to": "clock-alert.svg",
+      "category": "alerts"
+    },
+    {
+      "from": "export.svg",
+      "to": "upload.svg",
+      "category": "actions"
+    },
+    {
+      "from": "favorite-outline.svg",
+      "to": "star.svg",
+      "category": "actions"
+    },
+    {
+      "from": "favorite.svg",
+      "to": "star-filled.svg",
+      "category": "actions"
+    },
+    {
+      "from": "fingerprint.svg",
+      "to": "fingerprint.svg",
+      "category": "security"
+    },
+    {
+      "from": "folder.svg",
+      "to": "folder.svg",
+      "category": "files"
+    },
+    {
+      "from": "generate.svg",
+      "to": "sparkles.svg",
+      "category": "actions"
+    },
+    {
+      "from": "grid-view.svg",
+      "to": "grid-2x2.svg",
+      "category": "navigation"
+    },
+    {
+      "from": "help.svg",
+      "to": "circle-help.svg",
+      "category": "alerts"
+    },
+    {
+      "from": "hide-password.svg",
+      "to": "eye-off.svg",
+      "category": "security"
+    },
+    {
+      "from": "home.svg",
+      "to": "home.svg",
+      "category": "navigation"
+    },
+    {
+      "from": "identity.svg",
+      "to": "id-card.svg",
+      "category": "users"
+    },
+    {
+      "from": "import.svg",
+      "to": "download.svg",
+      "category": "actions"
+    },
+    {
+      "from": "info.svg",
+      "to": "info.svg",
+      "category": "alerts"
+    },
+    {
+      "from": "light-mode.svg",
+      "to": "sun.svg",
+      "category": "theme"
+    },
+    {
+      "from": "list-view.svg",
+      "to": "list.svg",
+      "category": "navigation"
+    },
+    {
+      "from": "lock.svg",
+      "to": "lock.svg",
+      "category": "security"
+    },
+    {
+      "from": "lock_logo.svg",
+      "to": "brand-lock.svg",
+      "category": "brands"
+    },
+    {
+      "from": "login.svg",
+      "to": "log-in.svg",
+      "category": "security"
+    },
+    {
+      "from": "logo.svg",
+      "to": "brand-shield.svg",
+      "category": "brands"
+    },
+    {
+      "from": "logout.svg",
+      "to": "log-out.svg",
+      "category": "security"
+    },
+    {
+      "from": "menu.svg",
+      "to": "menu.svg",
+      "category": "navigation"
+    },
+    {
+      "from": "more-options.svg",
+      "to": "more-horizontal.svg",
+      "category": "navigation"
+    },
+    {
+      "from": "notification.svg",
+      "to": "bell.svg",
+      "category": "communication"
+    },
+    {
+      "from": "otp.svg",
+      "to": "shield-number.svg",
+      "category": "security"
+    },
+    {
+      "from": "passport.svg",
+      "to": "passport.svg",
+      "category": "users"
+    },
+    {
+      "from": "password.svg",
+      "to": "key.svg",
+      "category": "security"
+    },
+    {
+      "from": "personal.svg",
+      "to": "house-user.svg",
+      "category": "users"
+    },
+    {
+      "from": "pin.svg",
+      "to": "map-pin.svg",
+      "category": "navigation"
+    },
+    {
+      "from": "redirect.svg",
+      "to": "external-link.svg",
+      "category": "actions"
+    },
+    {
+      "from": "restore.svg",
+      "to": "rotate-ccw.svg",
+      "category": "actions"
+    },
+    {
+      "from": "reused.svg",
+      "to": "key-round.svg",
+      "category": "security"
+    },
+    {
+      "from": "search.svg",
+      "to": "search.svg",
+      "category": "actions"
+    },
+    {
+      "from": "secure-note.svg",
+      "to": "file-lock.svg",
+      "category": "files"
+    },
+    {
+      "from": "security-audit.svg",
+      "to": "shield-check.svg",
+      "category": "security"
+    },
+    {
+      "from": "server.svg",
+      "to": "server.svg",
+      "category": "system"
+    },
+    {
+      "from": "settings.svg",
+      "to": "settings.svg",
+      "category": "system"
+    },
+    {
+      "from": "share.svg",
+      "to": "share-2.svg",
+      "category": "actions"
+    },
+    {
+      "from": "shield-warning.svg",
+      "to": "shield-alert.svg",
+      "category": "security"
+    },
+    {
+      "from": "shopping.svg",
+      "to": "shopping-bag.svg",
+      "category": "commerce"
+    },
+    {
+      "from": "social.svg",
+      "to": "users.svg",
+      "category": "users"
+    },
+    {
+      "from": "software.svg",
+      "to": "code.svg",
+      "category": "system"
+    },
+    {
+      "from": "sort.svg",
+      "to": "arrow-up-down.svg",
+      "category": "actions"
+    },
+    {
+      "from": "strength-medium.svg",
+      "to": "signal-medium.svg",
+      "category": "security"
+    },
+    {
+      "from": "strength-strong.svg",
+      "to": "signal-high.svg",
+      "category": "security"
+    },
+    {
+      "from": "strength-weak.svg",
+      "to": "signal-low.svg",
+      "category": "security"
+    },
+    {
+      "from": "sync.svg",
+      "to": "refresh-cw.svg",
+      "category": "actions"
+    },
+    {
+      "from": "tag.svg",
+      "to": "tag.svg",
+      "category": "actions"
+    },
+    {
+      "from": "travel.svg",
+      "to": "plane.svg",
+      "category": "system"
+    },
+    {
+      "from": "two-factor.svg",
+      "to": "shield-ellipsis.svg",
+      "category": "security"
+    },
+    {
+      "from": "unlock.svg",
+      "to": "lock-open.svg",
+      "category": "security"
+    },
+    {
+      "from": "user.svg",
+      "to": "user.svg",
+      "category": "users"
+    },
+    {
+      "from": "verified.svg",
+      "to": "badge-check.svg",
+      "category": "security"
+    },
+    {
+      "from": "view-password.svg",
+      "to": "eye.svg",
+      "category": "security"
+    },
+    {
+      "from": "website.svg",
+      "to": "globe.svg",
+      "category": "communication"
+    },
+    {
+      "from": "wifi.svg",
+      "to": "wifi.svg",
+      "category": "system"
+    },
+    {
+      "from": "work.svg",
+      "to": "briefcase.svg",
+      "category": "users"
+    }
+  ],
+  "skipped": [],
+  "duplicates": [],
+  "errors": [],
+  "deleted": [
+    {
+      "file": "lock_logo_backup.svg",
+      "reason": "Duplicate / backup file"
+    },
+    {
+      "file": "shield_logo.svg",
+      "reason": "Duplicate / backup file"
+    },
+    {
+      "file": "shield_logo_backup.svg",
+      "reason": "Duplicate / backup file"
+    }
+  ]
+}
