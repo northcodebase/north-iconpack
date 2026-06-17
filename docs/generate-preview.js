@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env node
+#!/usr/bin/env node
 /**
  * docs/generate-preview.js
  * Generates assets/preview.png — a grid of all icons for use in the README.
@@ -178,7 +178,7 @@ const html = `<!DOCTYPE html>
 
   const page = await browser.newPage();
 
-  await page.setContent(html, { waitUntil: "networkidle0" });
+  await page.setContent(html);
 
   /* Wait for layout to settle */
   await page.waitForTimeout?.(300).catch(() => {});
@@ -188,7 +188,7 @@ const html = `<!DOCTYPE html>
   const { height } = await bodyHandle.boundingBox();
 
   await page.setViewport({ width: IMG_WIDTH, height: Math.ceil(height), deviceScaleFactor: 2 });
-  await page.setContent(html, { waitUntil: "networkidle0" });
+  await page.setContent(html);
 
   await page.screenshot({
     path: OUT_FILE,

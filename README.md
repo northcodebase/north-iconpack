@@ -1,4 +1,4 @@
-﻿# Northline Icons
+# Northline Icons
 
 <p align="center">
   <img src="assets/preview.png" alt="Northline Icons Preview" width="100%" />
@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/northcodebase/north-iconpack/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" /></a>
   <a href="https://github.com/northcodebase/north-iconpack/releases"><img src="https://img.shields.io/github/v/release/northcodebase/north-iconpack?color=4f46e5&label=version" alt="Version" /></a>
-  <img src="https://img.shields.io/badge/icons-77-brightgreen" alt="Icon Count" />
+  <img src="https://img.shields.io/badge/icons-292-brightgreen" alt="Icon Count" />
   <img src="https://img.shields.io/badge/format-SVG-orange" alt="Format" />
   <img src="https://img.shields.io/badge/style-outline-lightgrey" alt="Style" />
 </p>
@@ -20,7 +20,7 @@
 
 ## Features
 
-- **77 hand-crafted SVG icons** across 11 categories
+- **292 hand-crafted SVG icons** (and their corresponding white outline dark-mode variants) across 15 categories
 - **Consistent 24×24 grid** with 1.8px stroke width throughout
 - **Outline style** — clean, modern, and framework-agnostic
 - **Zero dependencies** — drop in as raw SVG or reference by path
@@ -34,14 +34,18 @@
 
 | Category | Count | Description |
 |---|---|---|
-| `actions` | 22 | Copy, trash, search, upload, sparkles, and more |
-| `security` | 19 | Lock, shield variants, eye, fingerprint, key, signals |
-| `navigation` | 8 | Home, menu, arrow, map pin, list, grid |
-| `users` | 6 | User, users, briefcase, passport, id-card |
-| `system` | 6 | Settings, server, wifi, code, plane, film |
-| `files` | 3 | Folder, database, file-lock |
-| `commerce` | 3 | Credit card, shopping bag, landmark |
-| `communication` | 3 | Mail, bell, globe |
+| `actions` | 46 | Copy, trash, search, upload, sparkles, and more |
+| `security` | 40 | Lock, shield variants, eye, fingerprint, key, signals |
+| `navigation` | 30 | Home, menu, arrow, map pin, list, grid |
+| `development` | 30 | Api, console, git branch/merge/pull-request, plugin |
+| `system` | 24 | Settings, server, wifi, code, plane, film |
+| `files` | 22 | Folder, database, file-lock |
+| `communication` | 20 | Mail, bell, globe |
+| `commerce` | 17 | Credit card, shopping bag, landmark |
+| `ai` | 16 | Agent, brain, neural-network, workflow |
+| `users` | 15 | User, users, briefcase, passport, id-card |
+| `media` | 14 | Camera, headphones, podcast, radio |
+| `extensions` | 11 | Browser, cookie, puzzle, shield-browser |
 | `alerts` | 3 | Info, circle-help, clock-alert |
 | `theme` | 2 | Moon, sun |
 | `brands` | 2 | Brand shield, brand lock |
@@ -124,22 +128,34 @@ element.innerHTML = lockSvg;
 ```
 northline-icons/
 │
-├── icons/
-│   ├── actions/        (22 icons)
-│   ├── navigation/     (8 icons)
-│   ├── security/       (19 icons)
-│   ├── communication/  (3 icons)
-│   ├── files/          (3 icons)
-│   ├── commerce/       (3 icons)
-│   ├── users/          (6 icons)
+├── icons/              (Standard SVGs - Blue Accent, Dark Outline)
+│   ├── actions/        (46 icons)
+│   ├── ai/             (16 icons)
 │   ├── alerts/         (3 icons)
-│   ├── system/         (6 icons)
+│   ├── brands/         (2 icons)
+│   ├── commerce/       (17 icons)
+│   ├── communication/  (20 icons)
+│   ├── development/    (30 icons)
+│   ├── extensions/     (11 icons)
+│   ├── files/          (22 icons)
+│   ├── media/          (14 icons)
+│   ├── navigation/     (30 icons)
+│   ├── security/       (40 icons)
+│   ├── system/         (24 icons)
 │   ├── theme/          (2 icons)
-│   └── brands/         (2 icons)
+│   └── users/          (15 icons)
+│
+├── icons-white/        (White Outline / Blue Accent SVGs - Dark Mode)
+│   └── ...             (Same 15 subfolders)
 │
 ├── assets/
-│   └── preview.png
+│   ├── icons/          (Standard PNGs - 128x128px transparent)
+│   ├── icons-white/    (White Outline PNGs - 128x128px transparent)
+│   ├── ico/            (Standard Microsoft ICO files)
+│   ├── ico-white/      (White Outline Microsoft ICO files)
+│   └── preview.png     (Grid preview image)
 │
+├── docs/               (Interactive preview site)
 ├── README.md
 ├── LICENSE
 ├── CHANGELOG.md
