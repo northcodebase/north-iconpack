@@ -1,0 +1,11 @@
+<svg width="128" height="128" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dice body -->
+  <rect x="2" y="2" width="20" height="20" rx="3" fill="#1a73e8" stroke="#ffffff" stroke-width="1.8"/>
+  <!-- Dots pattern (6 face) -->
+  <circle cx="7.5" cy="7.5" r="1.5" fill="#ffffff"/>
+  <circle cx="16.5" cy="7.5" r="1.5" fill="#ffffff"/>
+  <circle cx="7.5" cy="12" r="1.5" fill="#ffffff"/>
+  <circle cx="16.5" cy="12" r="1.5" fill="#ffffff"/>
+  <circle cx="7.5" cy="16.5" r="1.5" fill="#ffffff"/>
+  <circle cx="16.5" cy="16.5" r="1.5" fill="#ffffff"/>
+</svg>

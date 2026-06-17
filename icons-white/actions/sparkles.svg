@@ -1,0 +1,11 @@
+<svg width="128" height="128" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rotating Outer Sync Arcs with Arrowheads -->
+  <path d="M12 4A8 8 0 0 1 19.54 9.38" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M20 5v4.5h-4.5" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <path d="M12 20A8 8 0 0 1 4.46 14.62" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M4 19v-4.5h4.5" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Central Star/Spark representing Generate/Create -->
+  <path d="M12 8l1.5 2.5 2.5 1.5-2.5 1.5-1.5 2.5-1.5-2.5-2.5-1.5 2.5-1.5z" fill="#1a73e8" stroke="#ffffff" stroke-width="1.8" stroke-linejoin="round" />
+</svg>

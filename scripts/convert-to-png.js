@@ -19,8 +19,10 @@ const sharp = require("sharp");
 
 // ── Config ────────────────────────────────────────────────────────────────────
 const ROOT      = path.join(__dirname, "..");
-const ICONS_DIR = path.join(ROOT, "icons");
-const OUT_DIR   = path.join(ROOT, "assets", "icons");
+const isWhite   = process.argv.includes("--white");
+const ICONS_DIR = isWhite ? path.join(ROOT, "icons-white") : path.join(ROOT, "icons");
+const OUT_DIR   = isWhite ? path.join(ROOT, "assets", "icons-white") : path.join(ROOT, "assets", "icons");
+
 
 // Parse --size flag
 const sizeArg = process.argv.indexOf("--size");
